@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/layout/pushlink.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/layout/pushlink.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/layout/bridgelistlinear.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/layout/bridgelistlinear.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/layout/home.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/layout/selectbridge_item.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/layout/selectbridge_item.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/src/release/shaders"/></dataSet></merger>

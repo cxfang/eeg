@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/menu/bridgelist.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/menu/bridgelist.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/press_smartbridge.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/bundles/debug/res/drawable-mdpi-v4/press_smartbridge.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/image_clear.png",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/meditation/build/intermediates/bundles/debug/res/drawable-mdpi-v4/image_clear.png"
+    }
+]

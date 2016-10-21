@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/press_smartbridge.xml",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/exploded-aar/TestLibMuseAndroid/meditation/unspecified/res/drawable-hdpi-v4/press_smartbridge.xml"
+    },
+    {
+        "merged": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

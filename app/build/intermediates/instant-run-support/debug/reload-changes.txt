@@ -1,0 +1,8 @@
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$string$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$style$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$layout$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$drawable$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$id$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$menu$override.class
+CHANGED,/Users/cfang/libmuse_5.13.0/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/choosemuse/example/libmuse/R$dimen$override.class
